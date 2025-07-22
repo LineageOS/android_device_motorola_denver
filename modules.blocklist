@@ -97,10 +97,10 @@ blocklist utags
 # Motorola product module block list
 #
 
-blocklist goodix_fod_mmi
+
+blocklist fpsensor_spi_tee
 blocklist fpc1020_mmi
 blocklist qpnp_adaptive_charge
-blocklist nova_0flash_mmi
-blocklist ilitek_v3_mmi
-blocklist focaltech_0flash_v2_mmi
 blocklist mmi_smbcharger_iio
+blocklist nova_0flash_mmi
+blocklist bu520xx_pen
