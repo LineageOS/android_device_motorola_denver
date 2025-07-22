@@ -7,7 +7,7 @@
     <!-- Vibrator pattern for feedback about a long screen/key press -->
     <integer-array name="config_longPressVibePattern">
         <item>0</item>
-        <item>70</item>
+        <item>43</item>
     </integer-array>
 
     <!-- Vibrator pattern for feedback about touching a virtual key -->
@@ -118,17 +118,17 @@
         <item>180</item>
         <item>180</item>
         <item>180</item>
-        <item>210</item>
-        <item>210</item>
-        <item>210</item>
-        <item>220</item>
         <item>225</item>
-        <item>225</item>
+        <item>234</item>
+        <item>234</item>
+        <item>234</item>
+        <item>234</item>
         <item>350</item>
-        <item>400</item>
-        <item>400</item>
-        <item>400</item>
-        <item>400</item>
+        <item>380</item>
+        <item>420</item>
+        <item>450</item>
+        <item>450</item>
+        <item>450</item>
     </integer-array>
 
     <!-- An array describing the screen's backlight values corresponding to the brightness
@@ -139,18 +139,19 @@
         <item>0</item>
         <item>2</item>
         <item>6</item>
-        <item>13</item>
-        <item>32</item>
-        <item>45</item>
-        <item>54</item>
-        <item>70</item>
-        <item>83</item>
-        <item>96</item>
-        <item>115</item>
-        <item>134</item>
-        <item>140</item>
-        <item>143</item>
-        <item>223</item>
+        <item>11</item>
+        <item>28</item>
+        <item>40</item>
+        <item>48</item>
+        <item>62</item>
+        <item>74</item>
+        <item>85</item>
+        <item>102</item>
+        <item>128</item>
+        <item>133</item>
+        <item>198</item>
+        <item>215</item>
+        <item>238</item>
         <item>255</item>
     </integer-array>
 
@@ -173,15 +174,16 @@
         <item>130</item>
         <item>150</item>
         <item>180</item>
-        <item>210</item>
-        <item>220</item>
         <item>225</item>
+        <item>234</item>
         <item>350</item>
-        <item>400</item>
+        <item>380</item>
+        <item>420</item>
+        <item>450</item>
     </integer-array>
 
     <!-- MMS user agent string -->
-    <string name="config_mms_user_agent" translatable="false">motog5g2024</string>
+    <string name="config_mms_user_agent" translatable="false">motogstylus5g</string>
 
     <!-- MMS user agent prolfile url -->
     <string name="config_mms_user_agent_profile_url" translatable="false">http://uaprof.motorola.com/phoneconfig/motov1/Profile/motov1.rdf</string>
@@ -214,34 +216,13 @@
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
     <string name="config_mainBuiltInDisplayCutout" translatable="false">
-        M 333,48
-        a 27,27 0 1 0 54,0
-        a 27,27 0 1 0 -54,0
+        M 130,0
+        L 0,0
+        L 0,90
+        L 126,90
         Z
         @left
     </string>
-
-    <!-- Like config_mainBuiltInDisplayCutout, but this path is used to report the
-         one single bounding rect per device edge to the app via
-         {@link DisplayCutout#getBoundingRect}. Note that this path should try to match the visual
-         appearance of the cutout as much as possible, and may be smaller than
-         config_mainBuiltInDisplayCutout
-         -->
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation" translatable="false">
-        M -27 0
-        L -27 96
-        L 27 96
-        L 27 0
-        Z
-    </string>
-
-    <!-- Whether the display cutout region of the main built-in display should be forced to
-         black in software (to avoid aliasing or emulate a cutout that is not physically existent).
-         -->
-    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
-
-    <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
-    <bool name="config_intrusiveNotificationLed">true</bool>
 
     <!-- List of biometric sensors on the device, in decreasing strength. Consumed by AuthService
          when registering authenticators with BiometricService. Format must be ID:Modality:Strength,
@@ -250,43 +231,6 @@
     <string-array name="config_biometric_sensors" translatable="false">
         <item>0:2:15</item> <!-- ID0:Fingerprint:Strong -->
     </string-array>
-
-    <!-- An array of arrays of side fingerprint sensor properties relative to each display.
-         Note: this value is temporary and is expected to be queried directly
-         from the HAL in the future. -->
-    <array name="config_sfps_sensor_props" translatable="false">
-        <item>@array/config_sfps_sensor_props_0</item>
-    </array>
-
-    <array name="config_sfps_sensor_props_0" translatable="false">
-        <item>local:4630946747577212033</item> <!--item>displayId</item-->
-        <item>720</item> <!--item>sensorLocationX</item-->
-        <item>585</item> <!--item>sensorLocationY</item-->
-        <item>200</item> <!--item>sensorRadius</item-->
-    </array>
-
-    <!-- Indicates whether device has a power button fingerprint sensor. -->
-    <bool name="config_is_powerbutton_fps" translatable="false">true</bool>
-
-    <!-- The default refresh rate for a given device. Change this value to set a higher default
-         refresh rate. If the hardware composer on the device supports display modes with a higher
-         refresh rate than the default value specified here, the framework may use those higher
-         refresh rate modes if an app chooses one by setting preferredDisplayModeId or calling
-         setFrameRate().
-         If a non-zero value is set for config_defaultPeakRefreshRate, then
-         config_defaultRefreshRate may be set to 0, in which case the value set for
-         config_defaultPeakRefreshRate will act as the default frame rate. -->
-    <integer name="config_defaultRefreshRate">0</integer>
-
-    <!-- The default peak refresh rate for a given device. Change this value if you want to prevent
-         the framework from using higher refresh rates, even if display modes with higher refresh
-         rates are available from hardware composer. Only has an effect if the value is
-         non-zero. -->
-    <integer name="config_defaultPeakRefreshRate">120</integer>
-
-    <!-- Default refresh rate in the zone defined by brightness and ambient thresholds.
-         If non-positive, then the refresh rate is unchanged even if thresholds are configured. -->
-    <integer name="config_defaultRefreshRateInZone">90</integer>
 
     <!-- Whether this device is supporting the software microphone toggle -->
     <bool name="config_supportsMicToggle">true</bool>
