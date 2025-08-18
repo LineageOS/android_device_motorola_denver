@@ -32,3 +32,5 @@ on property:vendor.hw.fps.ident=goodix
 on boot
     chown system system /sys/class/touchscreen/primary/rotate
     chmod 0660 /sys/class/touchscreen/primary/rotate
+    chown system system /sys/class/touchscreen/primary/gesture
+    chmod 0660 /sys/class/touchscreen/primary/gesture
