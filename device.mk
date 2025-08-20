@@ -80,5 +80,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# StylusKeyHandler
+PRODUCT_PACKAGES += \
+    StylusKeyHandler
+
 # Inherit from vendor blobs
 $(call inherit-product, vendor/motorola/fogo/fogo-vendor.mk)
