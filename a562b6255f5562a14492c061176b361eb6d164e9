@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8f9faef0_35d34824",
+        "filename": "product.prop",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:22:30Z",
+      "side": 1,
+      "message": "You can remove this, it\u0027s set to 0 in sm6375-common too",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 35
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e765716_d1f396ce",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:22:30Z",
+      "side": 1,
+      "message": "Not needed",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9cb436fe_fd53f341",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:22:30Z",
+      "side": 1,
+      "message": "You should remove version/interface, just keep fqname here and below",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 20
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d72dc663_0901580a",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:22:30Z",
+      "side": 1,
+      "message": "Not needed",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d94ec9ec_7c8f6d96",
+        "filename": "sku/manifest_d.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:22:30Z",
+      "side": 1,
+      "message": "Not needed",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a39a97fb_a8bb64b3",
+        "filename": "sku/manifest_d.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:22:30Z",
+      "side": 1,
+      "message": "You should remove version/interface, just keep fqname",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 20
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cdcccad9_fa6aaf98",
+        "filename": "sku/manifest_d.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:22:30Z",
+      "side": 1,
+      "message": "Not needed",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
