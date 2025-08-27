@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ccd1a9be_b82830d9",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T10:20:54Z",
+      "side": 1,
+      "message": "What about security patch level as well?",
+      "revId": "fd2cac69c053ecdae6d0252326afe9d0b8ba74ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
