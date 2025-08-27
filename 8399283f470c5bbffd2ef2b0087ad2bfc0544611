@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b9e6f8ba_4af7b927",
+        "filename": "audio/audio_policy_volumes.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:38:39Z",
+      "side": 1,
+      "message": "Undo the tab change",
+      "range": {
+        "startLine": 101,
+        "startChar": 0,
+        "endLine": 101,
+        "endChar": 1
+      },
+      "revId": "8399283f470c5bbffd2ef2b0087ad2bfc0544611",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cb16aa9c_f9a93abb",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:38:39Z",
+      "side": 1,
+      "message": "This doesn\u0027t seem to be sorted with sort-blobs-list",
+      "revId": "8399283f470c5bbffd2ef2b0087ad2bfc0544611",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1a1d9ddb_d9390fed",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:38:39Z",
+      "side": 1,
+      "message": "iirc this is unrelated to camera and unused",
+      "range": {
+        "startLine": 90,
+        "startChar": 13,
+        "endLine": 90,
+        "endChar": 31
+      },
+      "revId": "8399283f470c5bbffd2ef2b0087ad2bfc0544611",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6e87c113_6bb619e5",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 215,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:38:39Z",
+      "side": 1,
+      "message": "These can be removed, they\u0027re for qcom reference panels",
+      "range": {
+        "startLine": 213,
+        "startChar": 0,
+        "endLine": 215,
+        "endChar": 66
+      },
+      "revId": "8399283f470c5bbffd2ef2b0087ad2bfc0544611",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ae406e00_f53a1cec",
+        "filename": "audio/audio_policy_volumes.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:38:39Z",
+      "side": 0,
+      "message": "You should add back all DEVICE_CATEGORY_HEARING_AID changes here and below",
+      "revId": "f8fb8c7ad1f9c1afc3b35e21d999bfbefd44e4f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "130d7cc0_c7028791",
+        "filename": "audio/default_volume_tables.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-27T09:38:39Z",
+      "side": 0,
+      "message": "Restore this",
+      "range": {
+        "startLine": 87,
+        "startChar": 0,
+        "endLine": 101,
+        "endChar": 16
+      },
+      "revId": "f8fb8c7ad1f9c1afc3b35e21d999bfbefd44e4f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
