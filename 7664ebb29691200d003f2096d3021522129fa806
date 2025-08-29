@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "8be7cb7a_17818440",
+        "filename": "resource-overlay/device/Frameworks/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 269,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 0,
+      "message": "No. denver have fp on back.",
+      "parentUuid": "1c006cd6_c87db911",
+      "range": {
+        "startLine": 254,
+        "startChar": 0,
+        "endLine": 269,
+        "endChar": 75
+      },
+      "revId": "7664ebb29691200d003f2096d3021522129fa806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dc28fee1_3f5002de",
@@ -37,6 +61,30 @@
       "writtenOn": "2025-08-27T09:30:54Z",
       "side": 0,
       "message": "Keep this",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 56
+      },
+      "revId": "7664ebb29691200d003f2096d3021522129fa806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a1f0256e_300d7692",
+        "filename": "resource-overlay/device/Frameworks/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "dc28fee1_3f5002de",
       "range": {
         "startLine": 10,
         "startChar": 0,
@@ -70,6 +118,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "08400142_b5e9dff9",
+        "filename": "resource-overlay/device/Frameworks/res/xml/power_profile.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "213100f7_2d6c828b",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 23
+      },
+      "revId": "7664ebb29691200d003f2096d3021522129fa806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b0a3c6c3_6b881b86",
@@ -83,6 +155,30 @@
       "writtenOn": "2025-08-27T09:30:54Z",
       "side": 0,
       "message": "Keep .display0 here and below",
+      "range": {
+        "startLine": 8,
+        "startChar": 25,
+        "endLine": 8,
+        "endChar": 34
+      },
+      "revId": "7664ebb29691200d003f2096d3021522129fa806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0c80e869_175cac27",
+        "filename": "resource-overlay/device/Frameworks/res/xml/power_profile.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "b0a3c6c3_6b881b86",
       "range": {
         "startLine": 8,
         "startChar": 25,
@@ -116,6 +212,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab21a78d_cb819293",
+        "filename": "resource-overlay/device/SystemUI/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "f9f10328_3cd271c1",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 93
+      },
+      "revId": "7664ebb29691200d003f2096d3021522129fa806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1a283a03_643990d5",
@@ -129,6 +249,30 @@
       "writtenOn": "2025-08-27T09:30:54Z",
       "side": 0,
       "message": "You should keep this",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 58
+      },
+      "revId": "7664ebb29691200d003f2096d3021522129fa806",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c21c37f_11f6c6d5",
+        "filename": "resource-overlay/device/SystemUI/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "1a283a03_643990d5",
       "range": {
         "startLine": 13,
         "startChar": 0,

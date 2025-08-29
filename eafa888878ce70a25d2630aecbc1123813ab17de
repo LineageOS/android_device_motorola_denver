@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "60984f32_31c6f97b",
+        "filename": "resource-overlay/device/Frameworks/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "82959c5b_e862ee0a",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 82
+      },
+      "revId": "eafa888878ce70a25d2630aecbc1123813ab17de",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f483b299_2f403aec",
@@ -37,6 +61,30 @@
       "writtenOn": "2025-08-27T09:30:54Z",
       "side": 1,
       "message": "Keep this as 28dp",
+      "range": {
+        "startLine": 21,
+        "startChar": 46,
+        "endLine": 21,
+        "endChar": 51
+      },
+      "revId": "eafa888878ce70a25d2630aecbc1123813ab17de",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b03f08a0_adc7b253",
+        "filename": "resource-overlay/device/Frameworks/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f483b299_2f403aec",
       "range": {
         "startLine": 21,
         "startChar": 46,
@@ -70,6 +118,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7390c3aa_dc097480",
+        "filename": "resource-overlay/device/Frameworks/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9ffc8972_8ba8efdb",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 86
+      },
+      "revId": "eafa888878ce70a25d2630aecbc1123813ab17de",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "deb4f1ee_20ae0929",
@@ -83,6 +155,30 @@
       "writtenOn": "2025-08-27T09:30:54Z",
       "side": 1,
       "message": "This can be removed, only useful for 720p devices",
+      "range": {
+        "startLine": 8,
+        "startChar": 17,
+        "endLine": 8,
+        "endChar": 34
+      },
+      "revId": "eafa888878ce70a25d2630aecbc1123813ab17de",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "865d56e2_ae1461d2",
+        "filename": "resource-overlay/device/SystemUI/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "deb4f1ee_20ae0929",
       "range": {
         "startLine": 8,
         "startChar": 17,
