@@ -87,6 +87,24 @@
       "parentUuid": "0b1d5e9a_13ef1c7b",
       "revId": "93c574ac3057e40d4ff9ceb4aefb6480d56bb074",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37324375_f1a075dc",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-08-29T18:07:25Z",
+      "side": 0,
+      "message": "Well you have aw882xx_k419.ko in modules.load and it\u0027s built by default in techpack",
+      "parentUuid": "f145e5cb_ecf45745",
+      "revId": "93c574ac3057e40d4ff9ceb4aefb6480d56bb074",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
