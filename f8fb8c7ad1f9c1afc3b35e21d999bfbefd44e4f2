@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f0b7559_3b8e65aa",
+        "filename": "audio/audio_policy_volumes.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:35Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "ae406e00_f53a1cec",
+      "revId": "f8fb8c7ad1f9c1afc3b35e21d999bfbefd44e4f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "130d7cc0_c7028791",
@@ -31,6 +49,30 @@
       "writtenOn": "2025-08-27T09:38:39Z",
       "side": 0,
       "message": "Restore this",
+      "range": {
+        "startLine": 87,
+        "startChar": 0,
+        "endLine": 101,
+        "endChar": 16
+      },
+      "revId": "f8fb8c7ad1f9c1afc3b35e21d999bfbefd44e4f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c290d582_a2e7662f",
+        "filename": "audio/default_volume_tables.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:41:35Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "130d7cc0_c7028791",
       "range": {
         "startLine": 87,
         "startChar": 0,
