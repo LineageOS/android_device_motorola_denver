@@ -16,6 +16,24 @@
       "message": "What about security patch level as well?",
       "revId": "fd2cac69c053ecdae6d0252326afe9d0b8ba74ef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eedc2240_0c7d2507",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:39:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ccd1a9be_b82830d9",
+      "revId": "fd2cac69c053ecdae6d0252326afe9d0b8ba74ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
