@@ -26,6 +26,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e1aeabc6_8ebed522",
+        "filename": "product.prop",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "8f9faef0_35d34824",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 35
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "5e765716_d1f396ce",
         "filename": "sku/manifest_b.xml",
         "patchSetId": 2
@@ -37,6 +61,30 @@
       "writtenOn": "2025-08-27T09:22:30Z",
       "side": 1,
       "message": "Not needed",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e9d7e60d_fa5a6281",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "5e765716_d1f396ce",
       "range": {
         "startLine": 6,
         "startChar": 0,
@@ -72,6 +120,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "025ac5cb_25155c3f",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "9cb436fe_fd53f341",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 20
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d72dc663_0901580a",
         "filename": "sku/manifest_b.xml",
         "patchSetId": 2
@@ -83,6 +155,30 @@
       "writtenOn": "2025-08-27T09:22:30Z",
       "side": 1,
       "message": "Not needed",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c114765c_98a856b9",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "d72dc663_0901580a",
       "range": {
         "startLine": 31,
         "startChar": 0,
@@ -118,6 +214,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "739dc9a9_25ab7257",
+        "filename": "sku/manifest_d.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "d94ec9ec_7c8f6d96",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "a39a97fb_a8bb64b3",
         "filename": "sku/manifest_d.xml",
         "patchSetId": 2
@@ -141,6 +261,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "c7b95b7e_6fa2fa52",
+        "filename": "sku/manifest_d.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "a39a97fb_a8bb64b3",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 20
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "cdcccad9_fa6aaf98",
         "filename": "sku/manifest_d.xml",
         "patchSetId": 2
@@ -152,6 +296,30 @@
       "writtenOn": "2025-08-27T09:22:30Z",
       "side": 1,
       "message": "Not needed",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 10
+      },
+      "revId": "a562b6255f5562a14492c061176b361eb6d164e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dbf39dbc_21e64b1b",
+        "filename": "sku/manifest_d.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "cdcccad9_fa6aaf98",
       "range": {
         "startLine": 22,
         "startChar": 0,

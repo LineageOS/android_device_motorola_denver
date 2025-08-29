@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "77165459_f8d576d3",
+        "filename": "Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 0,
+      "message": "no.",
+      "parentUuid": "1701649b_1d2014fd",
+      "revId": "93c574ac3057e40d4ff9ceb4aefb6480d56bb074",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "7177ca1a_26abce69",
         "filename": "device.mk",
         "patchSetId": 2
@@ -31,6 +49,24 @@
       "writtenOn": "2025-08-27T09:22:30Z",
       "side": 0,
       "message": "Are you sure you don\u0027t need amplifier? From what I see you still have awinic amp",
+      "revId": "93c574ac3057e40d4ff9ceb4aefb6480d56bb074",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0b1d5e9a_13ef1c7b",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-08-29T07:37:33Z",
+      "side": 0,
+      "message": "not even present in kernel config",
+      "parentUuid": "7177ca1a_26abce69",
       "revId": "93c574ac3057e40d4ff9ceb4aefb6480d56bb074",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
