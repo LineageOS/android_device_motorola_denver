@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "77d9ade6_776e6145",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-09-01T05:13:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "76ab31e1_696d0a66",
+      "range": {
+        "startLine": 34,
+        "startChar": 41,
+        "endLine": 34,
+        "endChar": 61
+      },
+      "revId": "dbdb329b609bd6209b4f44890b21f67a1f9b1438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "014cf74e_8d675b56",
@@ -41,6 +65,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "828c8bd3_24829fc4",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-09-01T05:13:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "014cf74e_8d675b56",
+      "revId": "dbdb329b609bd6209b4f44890b21f67a1f9b1438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "c66fbb6f_3ce69786",
@@ -54,6 +96,24 @@
       "writtenOn": "2025-09-01T00:55:50Z",
       "side": 1,
       "message": "Same reason as above",
+      "revId": "dbdb329b609bd6209b4f44890b21f67a1f9b1438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49eee01e_69b0a192",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-09-01T05:13:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c66fbb6f_3ce69786",
       "revId": "dbdb329b609bd6209b4f44890b21f67a1f9b1438",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
