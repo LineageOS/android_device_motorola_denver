@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "76ed9f14_ec5f4320",
+        "filename": "init/init.mmi.overlay.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-01T01:01:50Z",
+      "side": 1,
+      "message": "Drop the 2nd newline from end of file",
+      "revId": "5c54fd02fa30563961dd82d0db61ca18efca66dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
