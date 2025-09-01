@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "014cf74e_8d675b56",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-01T00:55:50Z",
+      "side": 1,
+      "message": "Keep this to 1.9 since that\u0027s what we ship in sm6375-common blobs",
+      "revId": "dbdb329b609bd6209b4f44890b21f67a1f9b1438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c66fbb6f_3ce69786",
+        "filename": "sku/manifest_b.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-09-01T00:55:50Z",
+      "side": 1,
+      "message": "Same reason as above",
+      "revId": "dbdb329b609bd6209b4f44890b21f67a1f9b1438",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
