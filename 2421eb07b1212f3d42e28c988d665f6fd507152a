@@ -16,6 +16,24 @@
       "message": "This should be 28dp, it\u0027s not used for portrait",
       "revId": "2421eb07b1212f3d42e28c988d665f6fd507152a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "14d8e09a_9075a347",
+        "filename": "resource-overlay/device/Frameworks/res/values/dimens.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-09-01T05:14:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9e032b43_8489bf31",
+      "revId": "2421eb07b1212f3d42e28c988d665f6fd507152a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
