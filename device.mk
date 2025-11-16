@@ -59,6 +59,9 @@ PRODUCT_PACKAGES += \
 # LiveDisplay
 $(call soong_config_set,livedisplay_sysfs,enable_ab,true)
 
+# Lineage Health
+$(call soong_config_set,lineage_health,charging_control_charging_path,/sys/class/power_supply/battery/input_current_limit)
+
 # Power
 $(call soong_config_set,qtipower,tap_to_wake_node,/sys/class/touchscreen/primary/gesture)
 
