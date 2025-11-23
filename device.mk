@@ -57,7 +57,7 @@ PRODUCT_PACKAGES += \
     android.hardware.light-service.lineage
 
 # LiveDisplay
-$(call soong_config_set,livedisplay_sysfs,enable_ab,true)
+$(call soong_config_set_bool,livedisplay_sysfs,enable_ab,true)
 
 # Power
 $(call soong_config_set,qtipower,tap_to_wake_node,/sys/class/touchscreen/primary/gesture)
