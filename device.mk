@@ -60,7 +60,7 @@ PRODUCT_PACKAGES += \
 $(call soong_config_set_bool,livedisplay_sysfs,enable_ab,true)
 
 # Power
-$(call soong_config_set,qtipower,tap_to_wake_node,/sys/class/touchscreen/primary/gesture)
+$(call soong_config_set,power_libperfmgr,mode_extension_lib,//$(LOCAL_PATH):libperfmgr-ext-denver)
 
 # Sensors
 PRODUCT_COPY_FILES += \
