@@ -16,6 +16,24 @@
       "message": "why not in powerhint?",
       "revId": "1922dfdf8698dc689feef1fe60e3b5e8aff93b35",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa55ce8e_1051acfa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34240
+      },
+      "writtenOn": "2026-04-10T06:41:21Z",
+      "side": 1,
+      "message": "because we have devices using sensors hal for dt2w and powerhint is common for the devices.",
+      "parentUuid": "c2a0db9a_ccb3bd3e",
+      "revId": "1922dfdf8698dc689feef1fe60e3b5e8aff93b35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
