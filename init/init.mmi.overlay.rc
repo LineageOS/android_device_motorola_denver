@@ -1,8 +1,3 @@
-on post-fs-data
-    mkdir /mnt/vendor/persist/tof 0644 vendor_tcmd camera
-    # change permission for stylus
-    chown system system /sys/class/touchscreen/primary/palm_settings
-
 on early-init
     exec u:r:vendor_modprobe:s0 -- /vendor/bin/modprobe -a -d /vendor/lib/modules mcDrvModule
 
@@ -18,19 +13,10 @@ on charger
     insmod /vendor/lib/modules/${ro.vendor.mot.gki.path}/qpnp_adaptive_charge.ko
     insmod /vendor/lib/modules/${ro.vendor.mot.gki.path}/mmi-smbcharger-iio.ko
 
-on property:vendor.hw.fps.ident=chipone
-    # config chipone fpsensor
-    chown system system /dev/fpsensor
-    chmod 0660 /dev/fpsensor
-
 on property:vendor.hw.fps.ident=goodix
-    chown system system /dev/goodix_fp
-    chmod 0664 /dev/goodix_fp
     mkdir /data/vendor/gf_data 0770 system system
     mkdir /mnt/vendor/persist/goodix 0770 system system
 
 on boot
-    chown system system /sys/class/touchscreen/primary/rotate
-    chmod 0660 /sys/class/touchscreen/primary/rotate
     chown system system /sys/class/touchscreen/primary/gesture
     chmod 0660 /sys/class/touchscreen/primary/gesture
