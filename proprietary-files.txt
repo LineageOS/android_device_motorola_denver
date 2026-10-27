@@ -38,6 +38,9 @@ vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/libaidenoiser.so
 vendor/lib64/libaidenoiserv2.so
 vendor/lib64/libarcsoft_distortion_correction.so
+vendor/lib64/libarcsoft_dual_sat.so
+vendor/lib64/libarcsoft_dual_zoomtranslator.so
+vendor/lib64/libarcsoft_portrait_distortion_correction.so
 vendor/lib64/libbitmlengine.so
 vendor/lib64/libbitmlenginev2.so
 vendor/lib64/libcamera_nn_stub.so
