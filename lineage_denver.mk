@@ -23,6 +23,6 @@ PRODUCT_MODEL := moto g stylus 5G
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="denver_global-user 12 S2RE32.29-16-1-5-18 aa2da-5f4e5 release-keys" \
-    BuildFingerprint=motorola/denver_global/denver:12/S2RE32.29-16-1-5-18/aa2da-5f4e5:user/release-keys \
+    BuildDesc="denver_global-user 12 S2RE32.29-16-1-5-19 5d8c81-392f6 release-keys" \
+    BuildFingerprint=motorola/denver_global/denver:12/S2RE32.29-16-1-5-19/5d8c81-392f6:user/release-keys \
     DeviceProduct=denver_global
